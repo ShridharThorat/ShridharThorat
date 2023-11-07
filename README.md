@@ -4,7 +4,7 @@ I'm Shridhar Thorat (pronounced as 'Shree-dar') and I'm in my penultimate year o
 
 - 🔭 I’m currently working on a Flask application as well as parallelising a Bioinformatics, console application in C++
 - 🌱 I’m currently learning about optimising programs by taking advantage of parallelism
-- 🧑‍💻 I have experience making projects in languages like C#, C++, Java, Python, SQL, Javascript and HTML/CSS
+- 🧑‍💻 I have experience making projects in languages such as C#, C++, Java, Python, SQL, Javascript and HTML/CSS
 - 📫 How to reach me: shridhar.thorat01+github@gmail.com
 
 <!--
